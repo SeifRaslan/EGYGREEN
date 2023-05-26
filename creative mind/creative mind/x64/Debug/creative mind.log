@@ -1,0 +1,4 @@
+﻿  creative mind.cpp
+D:\projects\creative mind\creative mind\creative mind.cpp(61,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\projects\creative mind\creative mind\creative mind.cpp(75): warning C4715: 'region::mission': not all control paths return a value
+  creative mind.vcxproj -> D:\projects\creative mind\x64\Debug\creative mind.exe

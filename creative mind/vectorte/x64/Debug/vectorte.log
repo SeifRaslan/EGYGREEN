@@ -1,0 +1,3 @@
+﻿  vectorte.cpp
+D:\projects\creative mind\vectorte\vectorte.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  vectorte.vcxproj -> D:\projects\creative mind\x64\Debug\vectorte.exe
